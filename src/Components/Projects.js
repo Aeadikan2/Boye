@@ -35,7 +35,7 @@ const Projects = () => {
                     <span key={index}
                     className="mr-2 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
                         {tech}
-                    </span>
+                    </span> 
                 ))}
             </motion.div>
         </div>
